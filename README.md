@@ -1,0 +1,1 @@
+ type "java -jar htmlParser2.jar" in command line, and than enter the file name:index.html or index2. html to get the result file in OUTPUT folder.
